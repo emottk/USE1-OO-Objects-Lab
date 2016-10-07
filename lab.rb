@@ -4,9 +4,12 @@ class Person(name, age, height)
 
 #make it so you can change the age and the height
 
-#create a method that let's this person walk
+#create a method that lets this person walk
 
-#create a method that let's this person sing
+#create a method that lets this person sing
+  
+#create a method that will show this person's mood
+#make it so that you are able to change the person's mood
 
 #create a method that will print "I LOVE LIFE!" if the person's mood is "happy"
   #and "I'm having a tough day" if the person's mood is sad
